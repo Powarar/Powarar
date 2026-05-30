@@ -2,16 +2,21 @@
 
 I build async APIs, distributed systems and production backend infrastructure.  
 Currently studying Software Engineering at Financial University Moscow + double degree program in China.  
-Tech Lead at [ITS Community](https://github.com/FinITC) — 67 members, 2 active open-source projects.
-
 ---
 
 ## Stack
 
-```
-Python 3   FastAPI   PostgreSQL   Redis   Docker   Celery
-SQLAlchemy 2.0   Alembic   Nginx   GitHub Actions   Linux   Pytest
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
@@ -38,6 +43,7 @@ Sync Financial University timetable to Google / Apple Calendar
 
 - 🇨🇳 Double degree program — Financial University + Chinese partner university
 - 🔍 Looking for **Junior Python/Backend Developer** position (remote)
+
 ---
 
 📬 pshsafonov@gmail.com · [safonovpavel.space](https://safonovpavel.space) · [t.me/safonovpavel](https://t.me/safonovpavel)
