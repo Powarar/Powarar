@@ -41,7 +41,7 @@ Sync Financial University timetable to Google / Apple Calendar
 ## Currently
 
 - 🇨🇳 Double degree program — Financial University + Chinese partner university
-- 🔍 Looking for **Junior Python/Backend Developer** position (remote)
+- 🔍 Looking for **Python/Backend Developer** position (remote)
 
 ---
 
