@@ -20,6 +20,8 @@ Currently studying Software Engineering at Financial University Moscow + double 
 ---
 
 ## Projects
+[**news-radar**](https://github.com/Powarar/news-radar) — AI-powered personalized news aggregator  
+Aggregates 35+ RSS, website, and Telegram sources into ranked feeds with AI summaries and personalized Telegram alerts.
 
 **[FitMetrics](https://github.com/Powarar/FitMetrics)** — Fitness tracking REST API  
 Full backend from scratch: async FastAPI, JWT auth service, Redis caching with pipeline patterns, ETL via Apache Airflow, 80% test coverage (unit + integration)
